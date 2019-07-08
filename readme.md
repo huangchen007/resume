@@ -1,5 +1,5 @@
 ## Welcome to [Huang Chen](https://github.com/huangchen007) GitHub Pages
-I'm a coder good at C++/JAVA
+I'm a coder good at C++/JAVA and familiar with linux kernel,networking,JVM,Bytecode,performance profiling,etc
 
 My github activities are below:
 - 2019
