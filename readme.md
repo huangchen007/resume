@@ -1,9 +1,9 @@
-## Welcome to [Huang Chen](https://github.com/huangchen007) GitHub Pages
-I'm a coder good at C++/JAVA and familiar with linux kernel,networking,JVM,Bytecode,performance profiling,etc
+### I’m a coder good at C++/JAVA and familiar with Linux kernel, networking, JVM, Bytecode, performance profiling, etc
 
-My github activities are below:
+### My GitHub activities are below:
+
 - 2019
-  - I gave a PR to getsentry/sentry-java to impove performance.
-  - I gave my first PR to GoogleCloudPlatform/JavaDebugger to fix a memory leak problem. 
+  - I proposed a PR to getsentry/sentry-java to improve performance.
+  - I proposed my first PR to GoogleCloudPlatform/JavaDebugger to fix a memory leak problem.
 - 2014
-  - I was interested at Big Data technolgy. I made an ad-hoc plugin for elasticsearch until official support about sql query released.   (https://github.com/huangchen007/elasticsearch-rest-command)
+  - I was interested in Big Data technology. I made an ad-hoc plugin for elasticsearch until official support about SQL query released. (https://github.com/huangchen007/elasticsearch-rest-command)
